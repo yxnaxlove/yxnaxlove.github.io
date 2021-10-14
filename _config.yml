@@ -25,7 +25,7 @@ url                      : "https://yxnaxlove.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yxnaxlove/yxnaxlove.github.io" # "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     :/assets/images/logo.png
+logo                     :"/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "차유나"
-  avatar           : /assets/images/avata.png
+  avatar           : "/assets/images/avata.png"
   bio              : "용인외대부고 HAFS 학생"
   location         : "대한민국, 서울"
   email            : "yunacha613@gmail.com"
